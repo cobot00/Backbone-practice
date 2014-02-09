@@ -4,6 +4,7 @@ Backbone-practice
 Backbone.jsの手習い用のサンプルコードになります。  
 Model、Viewの基本的な使い方を習得することを目的としており、  
 サーバーなしで動作するように記述しています。  
+入力値からPersonを生成し、画面中央のグリッドに追加していきます。  
 index.htmlをブラウザで実行してください。  
   
 * **backbone_models.js**  
